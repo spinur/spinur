@@ -1,0 +1,2 @@
+# spinur
+The Javascript CMS
